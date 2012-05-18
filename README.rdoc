@@ -1,3 +1,5 @@
 = Real Big Clock
 
 I needed a big clock, so I made this.
+
+It's set up for deploying to Heroku, but you could pull the source files out and do whatever you want with it.
